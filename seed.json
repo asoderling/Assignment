@@ -1,0 +1,23 @@
+[
+    {
+        "first_name": "Matilda",
+        "last_name": "Gustavsson",
+        "age": "20",
+        "gender": "female",
+        "title": "student"
+    },
+    {
+        "first_name": "Anders",
+        "last_name": "Svensson",
+        "age": "23",
+        "gender": "male",
+        "title": "student"
+    },
+    {
+        "first_name": "Sture",
+        "last_name": "Hallenius",
+        "age": "34",
+        "gender": "male",
+        "title": "Teacher"
+    }
+]
